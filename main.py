@@ -30,4 +30,4 @@ while True:
     except OSError as e:
         print("sin sensor")
 
-    time.sleep_ms(250)
+    time.sleep_ms(1000)
